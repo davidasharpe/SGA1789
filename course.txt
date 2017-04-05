@@ -1,1 +1,104 @@
+1786 Object Oriented Web Development 1
+
+Setting up Visual StudioOverview, creating new application
+
+Project Management
+1. Introduction to Object Oriented Programming
+2. UML modeling
+3. Project requirements
+4. Assessment 1: Gather requirements for project, schedule, budget, design diagrams
+
+C# language 
+
+
+5. Introduction
+6. Syntax
+7. Data types
+8. Operators
+9. Sequence selection and iteration 
+10. Arrays
+11. Modular Programming
+12. Introduction to Classes
+12. Encapsulation
+13. Inheritance
+14. Polymorphism
+15. Assessment 2: write classes for project based on UML diagram
+16. Arrays
+17. Namespaces
+18. Collections
+19. Overloading
+20. Linq
+21. Regular expressions
+22. C# conventions
+
+SQL
+22. Setting up SQL server
+23. SQL Databases
+
+ASP.NET 
+24  Overview of .NET Core
+25. Project types: Web forms, MVC, Web APIs 
+26. MVC introduction
+27. MVC setting up project on Visual Studio
+    ==> Learn ASP.NET Core MVC: The Basics --- Introduction, 1. The Basics
+
+28. Controller
+    ==> Learn ASP.NET Core MVC: 2. The Model-View-Controller(MVC) Pattern
+
+29. Routing
+    
+30. Assessment 2 : Project set up on ASP.NET MVC
+
+31. View
+    ==> Learn ASP.NET Core MVC: 3. Render HTML with Views
+    
+32. Razor & Tag Helpers
+
+32. Model
+
+33. Entity Framework
+
+34. Migrations
+
+35. Working with SQL Data 
+    == Learn ASP.NET Core MVC: 4. Work with Data
+
+35. Assessment 2: entity framework, generating, SQL database
+
+36. Scaffolding
+
+37. Application CRUD
+
+
+38. Web API & Ajax
+    ==> Learn ASP.NET Core MVC: Improve user experience with Ajax & Web APIs
+
+39. Security and Identity services
+
+
+40. Tesing and Debugging
+
+41. Assessment 2
+
+
+
+
+
+1788 Object Oriented Web Development 2
+
+Project Management & Agile development
+
+C# 
+Delegates
+
+ASP.NET
+Identity
+Unit testing  
+Web APIs
+
+Azure
+https://azure.microsoft.com/en-us/community/training/courses/developing-dotnet-microsoft-azure-getting-started/
+
+Github
+
 
